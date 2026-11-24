@@ -4,6 +4,10 @@
 
 An Excel control system for a nonprofit fundraising team. It checks the records behind a total before the report goes out.
 
+![Executive Readout sheet: 6 reports monitored, 2 held, 2 need checks, 6 open exceptions](executive-readout.png)
+
+*The Executive Readout sheet: which reports are ready, held, or need a check.*
+
 Built by Brian Rodriguez as a work sample, November 2026. All gift records are fictional. This is not a finding about any real organization.
 
 ## The problem
