@@ -4,7 +4,7 @@
 
 An Excel control system for a nonprofit fundraising team. It checks the records behind a total before the report goes out.
 
-![Executive Readout sheet: 6 reports monitored, 2 held, 2 need checks, 6 open exceptions](executive-readout.png)
+<img src="executive-readout.png" alt="Executive Readout sheet: 6 reports monitored, 2 held, 2 need checks, 6 open exceptions" width="760">
 
 *The Executive Readout sheet: which reports are ready, held, or need a check.*
 
