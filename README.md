@@ -47,7 +47,7 @@ The four differences add up to only +$50. Their sizes add up to $330. That is no
 | Source Ledger | The Finance side input, one row per posting |
 | Variance Explained | Why the net total misses offsetting errors |
 | FY26 Public Context | Figures from a real nonprofit's public annual report, name removed |
-| Requirements Map | Each reporting duty mapped to its source, check and proof |
+| Requirements Map | Each reporting duty mapped to its source, check and proof, then traced to the control that satisfies it and that control's live release gate. Four duties show NO CONTROL: the coverage gap, on purpose. |
 | Method + Sources | How it works, the scoring rule, and the limits |
 
 Type new fictional entries into the blue cells and the result columns recalculate.
@@ -58,7 +58,16 @@ Type new fictional entries into the blue cells and the result columns recalculat
 - **Days 11 to 20, test real records.** With staff, check a sample, match one month, keep proof and assign issues.
 - **Days 21 to 30, hand over the tools.** Deliver the control board, issue log, release checklist and the top recurring fixes.
 
-**How to measure it:** gifts matched out of gifts sampled, thank you notes sent on time, overdue high risk issues, and reports signed off out of reports due.
+**How to measure it.** Baselines come from the day 1 to 10 sample. Targets are proposals until the team confirms them.
+
+| Measure | Baseline | Proposed 30 day target | Checked | By |
+|---|---|---|---|---|
+| Gifts matched or logged as an issue, out of gifts sampled | Count in days 1 to 10 | 100% | Monthly, at tie out | Development + Finance |
+| Thank you notes sent on time | Count in days 1 to 10 | Set once the team confirms its turnaround standard | Weekly | Development reviewer |
+| High risk issues past their due date | Count on day 10 | 0 | Weekly | Issue owner, checked by reviewer |
+| Reports signed off before release, out of reports due | Count in days 1 to 10 | 100% | Each release | Reviewer |
+
+Read the trend from baseline, not one week's number.
 
 ## Limits
 
